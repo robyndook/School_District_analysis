@@ -15,16 +15,14 @@ Module 4 PyCitySchools with Pandas
     - Full analysis to compare results in **PyCitySchools_Challenge** 
 
 ###### Results
+
 **District Summary**
 
--![District Summary](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/district_summary.PNG)
-
-- Final District Summary *Excluding* Thomas High School 9th Graders
-
--![District Summary with THS](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/district_summary_with_ths.PNG)
+- Final District Summary *Excluding* Thomas High School 9th Graders![District Summary](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/district_summary.PNG)
 
 - Original District Summary *Inculding* Thomas High School 9th Graders
-    
+![District Summary with THS](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/district_summary_with_ths.PNG)
+
 - Average Math Scores: Less 0.1
 - Average Reading Scores: No Changes
 - % Passing Math: Less 0.2%
