@@ -1,4 +1,4 @@
-# School_District_analysis
+# School_District_Analysis
 Module 4 PyCitySchools with Pandas
 
 ###### Project Overview
@@ -18,9 +18,12 @@ Module 4 PyCitySchools with Pandas
 **District Summary**
 
 -![District Summary](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/district_summary.PNG)
-    - Final District Summary *Excluding* Thomas High School 9th Graders
+
+- Final District Summary *Excluding* Thomas High School 9th Graders
+
 -![District Summary with THS](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/district_summary_with_ths.PNG)
-    - Original District Summary *Inculding* Thomas High School 9th Graders
+
+- Original District Summary *Inculding* Thomas High School 9th Graders
     
 - Average Math Scores: Less 0.1
 - Average Reading Scores: No Changes
@@ -31,9 +34,12 @@ Module 4 PyCitySchools with Pandas
 **School Summary**
 
 -![School Summary](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/school_summary.PNG)
-    - Final Summary *Excluding* Thomas High School 9th Graders
+    
+- Final Summary *Excluding* Thomas High School 9th Graders
+    
 -![School Summary with THS](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/school_summary_wth_ths.PNG)
-    - Original Summary *Inculding* Thomas High School 9th Graders
+
+- Original Summary *Inculding* Thomas High School 9th Graders
     
 - Average Math Scores: Less 0.1
 - Average Reading Scores: No Changes
