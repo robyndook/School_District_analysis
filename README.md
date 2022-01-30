@@ -1,8 +1,10 @@
 # School_District_analysis
 Module 4 PyCitySchools with Pandas
+
 ###### Project Overview
 - Replace Thomas High Schools 9th Grade with NaNs to view and compare reading and math scores
 - Analysis of the school districts spending, size and type. 
+
 ###### Resources
 - schools_complete.cvs
 - students_complete.cvs
@@ -11,41 +13,66 @@ Module 4 PyCitySchools with Pandas
     - School district analysis
 - PyCitySchools.ipynb
     - Full analysis to compare results in **PyCitySchools_Challenge** 
+
 ###### Results
 **District Summary**
+
 -![District Summary](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/district_summary.PNG)
-    - Final District Summary *Excluding* Thomas High School 9th Graders
+    -Final District Summary *Excluding* Thomas High School 9th Graders
 -![District Summary with THS](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/district_summary_with_ths.PNG)
     -Original District Summary *Inculding* Thomas High School 9th Graders
+    
 - Average Math Scores: Less 0.1
 - Average Reading Scores: No Changes
 - % Passing Math: Less 0.2%
 - % Passing Reading: Less 0.3%
 - % Overall Passing: Less 0.1%
+
 **School Summary**
+
 -![School Summary](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/school_summary.PNG)
+    -Final Summary *Excluding* Thomas High School 9th Graders
 -![School Summary with THS](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/school_summary_wth_ths.PNG)
+    -Original Summary *Inculding* Thomas High School 9th Graders
+    
 - Average Math Scores: Less 0.1
 - Average Reading Scores: No Changes
 - % Passing Math: Less 0.1%
 - % Passing Reading: Less 4.1%
 - % Overall Passing: Less 0.3%
+
 **Math Scores by Grade**
+
 -![Math Scores by Grade](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/math_by_grade.PNG)
+
 - Thomas High 9th Grade Math removed 83.6
+
 **Reading Scores by Grade**
+
 -![Reading Scores by Grade](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/reading_by_grade.PNG)
+
 - Thomas High 9th Grade Reading removed 83.7
+
 **Scores by School Spending**
+
 -![Scores by School Spending](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/school_spending.PNG)
-- - % Passing Reading dropped by 0.1% for $630-644
+
+- % Passing Reading dropped by 0.1% for $630-644
+
 **Scores by School Size**
+
 -![Scores by School Size](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/school_size.PNG)
+
 - % Passing Reading dropped by 0.1% for Medium (1000-2000)
+
 **Scores by School Type**
+
 -![Scores by School Type](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/school_type.PNG)
+
 - % Passing Reading dropped by 0.1% for Charter Schools
+
 ###### Summary
+
 Four main changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs
 - 1. Grades and percentages dropped in District Summary except for Average Reading Scores
 - 2. Percentage of Passing Reading dropped the most in the District Summary (4.1%)
