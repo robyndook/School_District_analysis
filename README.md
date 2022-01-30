@@ -31,13 +31,9 @@ Module 4 PyCitySchools with Pandas
 
 **School Summary**
 
--![School Summary](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/school_summary.PNG)
+- Final Summary *Excluding* Thomas High School 9th Graders![School Summary](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/school_summary.PNG)
     
-- Final Summary *Excluding* Thomas High School 9th Graders
-    
--![School Summary with THS](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/school_summary_wth_ths.PNG)
-
-- Original Summary *Inculding* Thomas High School 9th Graders
+- Original Summary *Inculding* Thomas High School 9th Graders![School Summary with THS](https://github.com/robyndook/School_District_analysis/blob/e535caf0cab69bc9c03dd8ea1b9383273c01af02/Analysis/school_summary_wth_ths.PNG)
     
 - Average Math Scores: Less 0.1
 - Average Reading Scores: No Changes
